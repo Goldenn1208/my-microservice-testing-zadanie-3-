@@ -1,0 +1,1 @@
+[2026-04-11 01:41:12] {"status": "success", "data": {"amount": 100.0, "currency": "USD", "result_rub": 9250.0}}
